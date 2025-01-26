@@ -1,4 +1,3 @@
-Fireball Jutsu
 Ever wanted to peform a fireball jutsu? Now's your chance to breathe fire (virtually)!
 
 ##Dependencies
